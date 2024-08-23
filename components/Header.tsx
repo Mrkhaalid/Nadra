@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Header = () => {
   return (
-    <div className="flex lg:justify-between items-center px-24 h-20 shadow-md">
+    <div className="flex lg:justify-between items-center px-20 h-20 shadow-md">
       <Image
         src="https://complaints.nadra.gov.pk/img/nadra_care_logo.svg"
         className="cursor-pointer lg:mx-0 md:mx-auto sm:mx-auto "

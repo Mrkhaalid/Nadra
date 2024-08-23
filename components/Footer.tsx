@@ -2,10 +2,14 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div>
+    <div className="pt-20">
       <footer className="text-center text-black p-6 bg-destructive">
         Copyright © 2024{" "}
-        <a href="#" className="text-primary">
+        <a
+          href="https://github.com/Mrkhaalid"
+          target="_blank"
+          className="text-primary"
+        >
           kHAALID
         </a>
       </footer>
